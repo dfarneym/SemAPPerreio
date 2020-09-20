@@ -14,8 +14,10 @@ module.exports = app => {
         }
         //De forma sicrona o await vai esperar obter os dados do banco
         //E só depois irar continuar com o metodo
-        const user = await app.db('users')
-            .where({ email: req.body.email })
+        const user = await app.db('users')//estou pegando os usuarios na base
+            //Onde o email é o email passado no processo de autenticação
+            //passando assim com a função LOWER o texto para minusculo
+            .whereRaw("LOWER(email) = LOWER(?)", req.body.email )
             .first()
 
         if (user) {
