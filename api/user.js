@@ -11,7 +11,7 @@ module.exports = app => {
         //sendo assim ele valida a senha ou não.
         //Usando a função do bcrypt.
         bcrypt.genSalt(10, (err, salt) => {
-            //quando o has for gerado ele ira chamar o função callback
+            //quando o hash for gerado ele ira chamar o função callback
             bcrypt.hash(password, salt, null, (err, hash) => callback(hash))
 
         })
