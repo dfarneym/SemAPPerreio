@@ -16,7 +16,7 @@
 - O usuário do app vai ter a opção  do lembrete em cada tarefa, podendo também marcar a tarefa como concluída e ocultar as tarefas já concluídas de forma bem simples, rápida,  prática  e sem aperreio!
 
 ## Pessonas:
-
+![Personas](https://user-images.githubusercontent.com/53848638/95907707-56e1bf00-0d72-11eb-8178-745502520157.PNG)
 
 ## Objetivo Geral :
 - Gerenciar minhas tarefas.
