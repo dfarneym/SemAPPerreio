@@ -8,7 +8,7 @@
 - Com facilidade e rapidez  ‘Sem APPerreio’ funciona como uma ferramenta para ajudar na organização das tarefas diárias. É voltado para diferentes tipos de usuários: estudantes,   donas de casa e diferentes profissionais.
 
 ## Benchmark:
-- 
+![Benchmark](https://user-images.githubusercontent.com/53848638/95905218-f2713080-0d6e-11eb-841c-a3bf9a6a2b9a.PNG)
 
 ## Público alvo
 - Usuários entre 17 a 40 anos
