@@ -43,5 +43,5 @@
 ![Sketching de Telas Crazy 8s SECTION](https://user-images.githubusercontent.com/53848638/95907448-f2266480-0d71-11eb-94f7-77f5cba3510c.PNG)
 
 ## Protótipo de telas:
-
+![Protótipo das telas](https://user-images.githubusercontent.com/53848638/95907634-37e32d00-0d72-11eb-8fb8-b7d1278b155f.PNG)
 
