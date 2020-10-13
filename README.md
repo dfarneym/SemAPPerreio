@@ -38,3 +38,7 @@
 
 ## Sketching de Telas: Crazy 8’s SECTION:
 
+## Funcionalidades:
+![Funcionalidades](https://user-images.githubusercontent.com/53848638/95905477-4aa83280-0d6f-11eb-852e-91f8f31d3217.PNG)
+
+
