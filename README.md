@@ -36,9 +36,12 @@
 - Anexar um arquivo
 - Criar uma nova lista de tarefas
 
-## Sketching de Telas: Crazy 8’s SECTION:
-
 ## Funcionalidades:
 ![Funcionalidades](https://user-images.githubusercontent.com/53848638/95905477-4aa83280-0d6f-11eb-852e-91f8f31d3217.PNG)
+
+## Sketching de Telas: Crazy 8’s SECTION:
+![Sketching de Telas Crazy 8s SECTION](https://user-images.githubusercontent.com/53848638/95907448-f2266480-0d71-11eb-94f7-77f5cba3510c.PNG)
+
+## Protótipo de telas:
 
 
