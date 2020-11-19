@@ -1,17 +1,25 @@
 // Update with your config settings.
-
+// Conexão com banco de dados
 module.exports = {
-    client: 'postgresql',
-    connection: {
-      database: 'semapperreio',
-      user:     'postgres',
-      password: '123456'
-    },
+  development: {
+    client: 'pg',
+    connection: process.env.DATABASE_URL,
     pool: {
       min: 2,
       max: 10
     },
     migrations: {
-      tableName: 'knex_migrations'//Nome da tabela que vai controlar as migrações ou migrations
-    }
+      tableName: 'knex_migrations'
+    },
+  },
+  production: {
+    client: 'pg',
+    connection: process.env.DATABASE_URL,
+    migrations: {
+        directory:__dirname + '/migrations'
+      },
+      seeds: {
+        directory:__dirname + '/seeds'
+      }  
+  }
 };

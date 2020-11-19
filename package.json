@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon"
+    "start": "node index.js",
+    "production": "pm2 start index.js --name semapperreio-backend"
   },
   "keywords": [],
   "author": "",
@@ -24,5 +25,9 @@
   },
   "devDependencies": {
     "nodemon": "2.0.2"
+  },
+  "engines": {
+    "node": "12.18.3"
   }
+  
 }

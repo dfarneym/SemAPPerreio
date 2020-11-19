@@ -25,14 +25,19 @@ module.exports = app => {
             //do usuario que está no banco
             //Depois passo uma callback que é uma comparasão assincrona
             bcrypt.compare(req.body.password, user.password, (err, isMatch) => {
-                if (err, !isMatch) {
-                    return res.status(401).send()
+                if (err || !isMatch) {
+                    return res.status(401).send('A senha está incorreta!')
                 }
 
                 //caso ele passe no primeiro teste indiaca que deu certo e 
                 //ele validou o usuario
                 //O payload é o valor que irei amazenar dentro do token
-                const payload = { id: user.id }
+                const payload = { 
+                    id: user.id,
+                    name: user.name,
+                    email: user.email
+
+                }
                 res.json({
                     name: user.name,
                     email: user.email,
@@ -44,7 +49,7 @@ module.exports = app => {
 
             })
             
-        }else {
+        } else {
             res.status(400).send('Usuário não cadastrado!')
         }
     }
