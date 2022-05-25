@@ -1,5 +1,5 @@
 # Web Site Sem APPerreio
-[![NPM](https://img.shields.io/npm/l/react)] (https://github.com/dfarneym/SemAPPerreio/blob/master/LICENCE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/dfarneym/SemAPPerreio/blob/master/LICENCE)
 
 ## Gênero
 - Produtividade
