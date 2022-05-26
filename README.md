@@ -3,14 +3,14 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/dfarneym/SemAPPerreio/blob/master/LICENCE)
 
+## Sobre oprojeto:
+- É um aplicativo voltado para o público em geral, pra que não quer ficar aperreado com tantas tarefas do dia a dia.
+- Com facilidade e rapidez  ‘Sem APPerreio’ funciona como uma ferramenta para ajudar na organização das tarefas diárias. É voltado para diferentes tipos de usuários: estudantes,   donas de casa e diferentes profissionais.
+
 ![Telas de navegação](https://user-images.githubusercontent.com/53848638/170392722-e8c2545f-92ab-4a49-a176-1321ec7e82cf.PNG)
 
 ## Gênero
 - Produtividade
-
-## Sobre APP:
-- É um aplicativo voltado para o público em geral, pra que não quer ficar aperreado com tantas tarefas do dia a dia.
-- Com facilidade e rapidez  ‘Sem APPerreio’ funciona como uma ferramenta para ajudar na organização das tarefas diárias. É voltado para diferentes tipos de usuários: estudantes,   donas de casa e diferentes profissionais.
 
 ## Etapas para elaboração do App:
 - Benchmark
