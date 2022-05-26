@@ -1,4 +1,4 @@
-# Web Site Sem APPerreio
+# Sem APPerreio
 - Solicitar link de download do app ao desenvolvedor
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/dfarneym/SemAPPerreio/blob/master/LICENCE)
