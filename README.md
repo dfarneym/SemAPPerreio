@@ -1,8 +1,10 @@
 # Sem APPerreio
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/dfarneym/SemAPPerreio/blob/master/LICENCE)
+
 - Link para download: https://drive.google.com/drive/folders/1hL6-jOPwSoMBnqDU3Th3W3aSNI0ILtDU?usp=sharing
 - Solicitar acesso de download do app ao desenvolvedor
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/dfarneym/SemAPPerreio/blob/master/LICENCE)
+
 
 ## Sobre oprojeto:
 - É um aplicativo voltado para o público em geral, pra que não quer ficar aperreado com tantas tarefas do dia a dia.
