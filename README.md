@@ -37,6 +37,18 @@
 
 − Sem APPerreio foi criado seguindo alguns paradigmas de metodologias ágeis bastante utilizadas atualmente na área de desenvolvimento de aplicativo mobile. Baseando-se no Scrum e Lean, as tarefas foram determinadas e planejadas para serem concluí-las no término de cada semana, definindo também a escolha do domínio, tivemos que fazer o benchmark, propor inovação, identificar as personas, objetivos de negócio, sketching de telas: Crazy 8’s e protótipo de telas . Usando a ferramenta Trello e apoiando-se nos fundamentos do Kanban, foram organizadas atividades em nível de prioridade, embasado no valor de negócio e esforço de criação, para que pudéssemos trabalhar primeiro nas partes fundamentais do sistema.
 
+## Tecnologias utilizadas
+- React-Native
+- JavaScript, React-Native
+- Node.js
+- PostgreSQL
+- Bibliotecas auxiliares
+
+## Ferramentas utilizadas
+- Visual Studio Code
+- Trello
+- Adobe XD
+-
 ## Inovações:
 - Simplicidade ao criar uma tarefa
 - Facilidade ao excluir uma tarefa
