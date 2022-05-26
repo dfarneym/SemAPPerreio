@@ -51,7 +51,7 @@
 - Visual Studio Code
 - Trello
 - Adobe XD
--
+- 
 ## Inovações:
 - Simplicidade ao criar uma tarefa
 - Facilidade ao excluir uma tarefa
@@ -60,3 +60,10 @@
 - Tarefa sem data
 - Anexar um arquivo
 - Criar uma nova lista de tarefas
+
+## Resultados:
+- O resultado desse projeto é, até então, um aplicativo mobile que visa ajudar as pessoas em gerenciar suas tarefas do dia a dia. Com o Sem APPerreio os usuários poderão criar suas tarefas e visualizá-las de acordo com: dia de hoje, dia de amanhã, da semana, do mês e do ano. Os usuários também poderão excluir tarefas, selecioná-las como concluídas e ocultar as tarefas que já foram feitas.
+
+## Autor:
+- Daniel Farney
+- http://www.linkedin.com/in/d-farney
