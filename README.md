@@ -3,6 +3,8 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/dfarneym/SemAPPerreio/blob/master/LICENCE)
 
+![Telas de navegação](https://user-images.githubusercontent.com/53848638/170392722-e8c2545f-92ab-4a49-a176-1321ec7e82cf.PNG)
+
 ## Gênero
 - Produtividade
 
@@ -17,11 +19,11 @@
 - Protótipo de telas
 
 ## Funcionalidades do App:
-![Funcionalidades](https://user-images.githubusercontent.com/53848638/95905477-4aa83280-0d6f-11eb-852e-91f8f31d3217.PNG)
+![Funcionalidades](https://user-images.githubusercontent.com/53848638/170392619-386c72d4-ca9a-4593-91d7-36fb4c2e7eec.PNG)
 
-- Os usuários vão poder se cadastrar com seu e-mail. Caso eles esqueçam a senha, vão poder recuperá-la através do e-mail;
+- Os usuários vão poder se cadastrar com seu e-mail. 
 - O usuário poderá criar novas tarefas para o dia, para a semana, para o mês e para o ano; 
-- O usuário do app vai ter a opção  do lembrete em cada tarefa, podendo também marcar a tarefa como concluída e ocultar as tarefas já concluídas de forma bem simples, rápida,  prática  e sem aperreio!
+- O usuário do app vai ter a opção  marcar a tarefa como concluída e ocultar as tarefas já concluídas de forma bem simples, rápida,  prática  e sem aperreio!
 
 ## Objetivo Geral :
 - Gerenciamento de tarefas.
@@ -30,8 +32,7 @@
 - Anotar tarefas
 - Lembrar tarefas 
 - Poder fazer qualquer anotação e não se preocupar com data e hora
-- Criar novas listas
-- 
+
 ## Metodologia de desenvolvimento:
 
 − Sem APPerreio foi criado seguindo alguns paradigmas de metodologias ágeis bastante utilizadas atualmente na área de desenvolvimento de aplicativo mobile. Baseando-se no Scrum e Lean, as tarefas foram determinadas e planejadas para serem concluí-las no término de cada semana, definindo também a escolha do domínio, tivemos que fazer o benchmark, propor inovação, identificar as personas, objetivos de negócio, sketching de telas: Crazy 8’s e protótipo de telas . Usando a ferramenta Trello e apoiando-se nos fundamentos do Kanban, foram organizadas atividades em nível de prioridade, embasado no valor de negócio e esforço de criação, para que pudéssemos trabalhar primeiro nas partes fundamentais do sistema.
