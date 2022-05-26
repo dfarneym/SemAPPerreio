@@ -1,5 +1,5 @@
 # Web Site Sem APPerreio
-- Link do site: https://seraquepresta.herokuapp.com/auth
+- Solicitar link de download do app ao desenvolvedor
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/dfarneym/SemAPPerreio/blob/master/LICENCE)
 
@@ -10,25 +10,31 @@
 - É um aplicativo voltado para o público em geral, pra que não quer ficar aperreado com tantas tarefas do dia a dia.
 - Com facilidade e rapidez  ‘Sem APPerreio’ funciona como uma ferramenta para ajudar na organização das tarefas diárias. É voltado para diferentes tipos de usuários: estudantes,   donas de casa e diferentes profissionais.
 
-## Benchmark:
-![Benchmark](https://user-images.githubusercontent.com/53848638/95905218-f2713080-0d6e-11eb-841c-a3bf9a6a2b9a.PNG)
+## Etapas para elaboração do App:
+- Benchmark
+- Pessonas
+- Sketching de Telas: Crazy 8’s SECTION
+- Protótipo de telas
 
-## Meu APP:
+## Funcionalidades do App:
+![Funcionalidades](https://user-images.githubusercontent.com/53848638/95905477-4aa83280-0d6f-11eb-852e-91f8f31d3217.PNG)
+
 - Os usuários vão poder se cadastrar com seu e-mail. Caso eles esqueçam a senha, vão poder recuperá-la através do e-mail;
 - O usuário poderá criar novas tarefas para o dia, para a semana, para o mês e para o ano; 
 - O usuário do app vai ter a opção  do lembrete em cada tarefa, podendo também marcar a tarefa como concluída e ocultar as tarefas já concluídas de forma bem simples, rápida,  prática  e sem aperreio!
 
-## Pessonas:
-![Personas](https://user-images.githubusercontent.com/53848638/95907707-56e1bf00-0d72-11eb-8178-745502520157.PNG)
-
 ## Objetivo Geral :
-- Gerenciar minhas tarefas.
+- Gerenciamento de tarefas.
 
 ## Objetivo específico :
-- Anotar minhas tarefas
-- Lembrar de suas tarefas 
+- Anotar tarefas
+- Lembrar tarefas 
 - Poder fazer qualquer anotação e não se preocupar com data e hora
 - Criar novas listas
+- 
+## Metodologia de desenvolvimento:
+
+− Sem APPerreio foi criado seguindo alguns paradigmas de metodologias ágeis bastante utilizadas atualmente na área de desenvolvimento de aplicativo mobile. Baseando-se no Scrum e Lean, as tarefas foram determinadas e planejadas para serem concluí-las no término de cada semana, definindo também a escolha do domínio, tivemos que fazer o benchmark, propor inovação, identificar as personas, objetivos de negócio, sketching de telas: Crazy 8’s e protótipo de telas . Usando a ferramenta Trello e apoiando-se nos fundamentos do Kanban, foram organizadas atividades em nível de prioridade, embasado no valor de negócio e esforço de criação, para que pudéssemos trabalhar primeiro nas partes fundamentais do sistema.
 
 ## Inovações:
 - Simplicidade ao criar uma tarefa
@@ -38,13 +44,3 @@
 - Tarefa sem data
 - Anexar um arquivo
 - Criar uma nova lista de tarefas
-
-## Funcionalidades:
-![Funcionalidades](https://user-images.githubusercontent.com/53848638/95905477-4aa83280-0d6f-11eb-852e-91f8f31d3217.PNG)
-
-## Sketching de Telas: Crazy 8’s SECTION:
-![Sketching de Telas Crazy 8s SECTION](https://user-images.githubusercontent.com/53848638/95907448-f2266480-0d71-11eb-94f7-77f5cba3510c.PNG)
-
-## Protótipo de telas:
-![Protótipo das telas](https://user-images.githubusercontent.com/53848638/95907634-37e32d00-0d72-11eb-8fb8-b7d1278b155f.PNG)
-
