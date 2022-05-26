@@ -51,7 +51,7 @@
 - Visual Studio Code
 - Trello
 - Adobe XD
-- 
+
 ## Inovações:
 - Simplicidade ao criar uma tarefa
 - Facilidade ao excluir uma tarefa
